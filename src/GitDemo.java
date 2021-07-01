@@ -3,5 +3,6 @@ public class GitDemo {
         System.out.println("This is a demo for learning git!");
         System.out.println("Happy study!");
         System.out.println("Happy study everyday~!");
+        System.out.println("front");
     }
 }
